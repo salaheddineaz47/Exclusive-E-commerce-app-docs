@@ -1,6 +1,6 @@
 # Exclusive E-commerce Application
 
-[![Demo Video](./screenshots/Exclusive%20E-Commerce%20App-thumbnail.png)](https://youtu.be/9xcSwET5D9w)
+[![Demo Video](./screenshots/Exclusive%20E-Commerce%20App-thumbnail.webp)](https://youtu.be/9xcSwET5D9w)
 
 > **Watch the Exclusive Demo:** [YouTube Video](https://youtu.be/9xcSwET5D9w)  
 > Click the image above or the link to watch a walkthrough of the Exclusive E-commerce Application.
